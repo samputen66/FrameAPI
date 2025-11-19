@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LaPSZ5uI0zc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeremy.y.camacho\\source\\repos\\FrameAPI\\Frame.API\\Frame.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeremy.y.camacho\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\jeremy.y.camacho\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.10\\microsoft.extensions.apidescription.server.9.0.10.nupkg.sha512",
+    "C:\\Users\\jeremy.y.camacho\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\jeremy.y.camacho\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.6\\swashbuckle.aspnetcore.swaggerui.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
