@@ -5,14 +5,14 @@
     "webAppName": {
       "value": "frame-api"
     },
+    "location": {
+      "value": "eastus"
+    },
     "appServicePlanName": {
       "value": "frame-api-plan"
     },
-    "location": {
-      "value": "East Asia"
-    },
     "skuName": {
-      "value": "F1"
+      "value": "S1"
     }
   }
 }
